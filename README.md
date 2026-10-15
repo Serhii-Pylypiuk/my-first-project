@@ -1,12 +1,16 @@
-\# My First Project My first project for learning Git and GitHub.
+\# My First Project
 
 
 
-&#x20;## Features
+&#x20;My first project for learning Git and GitHub.
 
-\- Feature 1
 
-\- Feature 2
+
+\## Features
+
+* Backend Senior
+* Data Analyst Senior
+* ML/MI Engineer
 
 &#x20;
 
@@ -19,7 +23,7 @@
 
 
 
-&#x20;## Author 
+\## Author
 
 Serhii Pylypiuk
 
